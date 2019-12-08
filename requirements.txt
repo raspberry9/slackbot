@@ -1,0 +1,4 @@
+slackclient
+bottle
+memorize
+six
